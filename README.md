@@ -37,4 +37,3 @@ fancy_text.frog()
 fancy_text.doom()
 fancy_text.no_smokeing()
 ```
-https://www.youtube.com/channel/UCuhi2jHuSBMV2yYVqUBVucg
