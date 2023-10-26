@@ -37,5 +37,4 @@ fancy_text.frog()
 fancy_text.doom()
 fancy_text.no_smokeing()
 ```
-https://replit.com/@adammccombe999/Fancy-text
 https://www.youtube.com/channel/UCuhi2jHuSBMV2yYVqUBVucg
